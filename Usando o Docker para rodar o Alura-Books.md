@@ -1,6 +1,6 @@
 
 
-crie um diretório: alurabooks e 
+Crie um diretório: alurabooks 
 ```
 mkdir alurabooks
 cd alurabooks
